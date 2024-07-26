@@ -17,7 +17,7 @@
 <h3 align="center">🛡️ Securing the digital realm, one commit at a time 💻</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.redd.it/n8agw6z2smyb1.gif" width="600" height="300"/>
 </div>
 
 <p align="center">
@@ -87,10 +87,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalam04&theme=redical" alt="Contribution Graph" />
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
-</div>
 
 <h2 align="center">🏆 Achievements</h2>
 
