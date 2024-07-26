@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adnan+Alam!;Cybersecurity+Enthusiast;Ethical+Hacker;Code+Guardian" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adnan+Alam!;Ethical+Hacker;Cybersecurity+Expert;Code+Craftsman" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -7,18 +7,14 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adnanalam04&style=flat-square&color=blue" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=adnanalam04&style=flat-square&color=00FF00" alt="Profile views counter"/>
 </p>
 
-<h3 align="center">🛡️ Securing the digital realm, one commit at a time 💻</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h3 align="center">🛡️ Defending the digital frontier, one line of code at a time 💻</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -27,69 +23,69 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  🔐 Passionate about cybersecurity and ethical hacking<br>
-  💻 Constantly learning and exploring new technologies<br>
-  🌐 Committed to making the digital world a safer place<br>
+  🔐 Ethical hacker with a passion for cybersecurity<br>
+  💻 Full-stack developer and coding enthusiast<br>
+  🌐 Committed to making the digital world safer and more secure<br>
   🎓 B.Tech in Computer Science and Cybersecurity
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif" width="500" />
+</div>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-FF6C37?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-007ACC?style=for-the-badge&logo=v&logoColor=white" alt="Vulnerability Assessment" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Security" />
-  <img src="https://img.shields.io/badge/Network%20Security-00C7B7?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Web%20Application%20Security-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Web Application Security" />
-  <img src="https://img.shields.io/badge/Digital%20Forensics-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Digital Forensics" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<h2 align="center">💻 Languages and Tools</h2>
+<h2 align="center">💻 Languages and Frameworks</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" />
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanalam04&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanalam04&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanalam04&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanalam04&theme=chartreuse-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnanalam04&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adnanalam04&theme=matrix&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalam04&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalam04&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalam04&theme=redical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalam04&theme=chartreuse-dark" alt="Contribution Graph" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 </div>
 
 <h2 align="center">🏆 Achievements</h2>
@@ -118,7 +114,7 @@
 <h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
-  I can hack into a system faster than I can decide what to have for dinner! 🍕💻
+  I can write code faster than I can type my password! ⌨️💨
 </p>
 
 <div align="center">
@@ -130,5 +126,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%">
 </p>
