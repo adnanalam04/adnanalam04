@@ -6,9 +6,9 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adnanalam04&style=flat-square&color=blue" alt="Profile views counter"/>
@@ -16,8 +16,21 @@
 
 <h3 align="center">🛡️ Securing the digital realm, one commit at a time 💻</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  🔐 Passionate about cybersecurity and ethical hacking<br>
+  💻 Constantly learning and exploring new technologies<br>
+  🌐 Committed to making the digital world a safer place<br>
+  🎓 B.Tech in Computer Science and Cybersecurity
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
@@ -47,6 +60,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+</div>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -71,6 +88,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalam04&theme=redical" alt="Contribution Graph" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+</div>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  🥇 HackTheBox Elite Hacker<br>
+  🏆 TryHackMe Top 1%<br>
+  🚀 Founded OWASP Sharda University Chapter<br>
+  💻 Led Cyber Pirates Club at Sharda University
+</p>
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -90,6 +120,10 @@
 <p align="center">
   I can hack into a system faster than I can decide what to have for dinner! 🍕💻
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
+</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
