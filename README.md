@@ -17,7 +17,7 @@
 <h3 align="center">🛡️ Securing the digital realm, one commit at a time 💻</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.redd.it/n8agw6z2smyb1.gif" width="600" height="300"/>
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="600" height="300"/>
 </div>
 
 <p align="center">
